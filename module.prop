@@ -1,6 +1,6 @@
-id=glbl_fpsunlocker
-name=FPS Unlocker
-version=1
-versionCode=1
+id=pubgfpsunlocker
+name=PUBG Mobile FPS Unlocker
+version=20220902
+versionCode=20220902
 author=GLBL
-description=Replaces your device model to allow higher FPS in games
+description=A Magisk module for unlocking max FPS in PUBG Mobile
